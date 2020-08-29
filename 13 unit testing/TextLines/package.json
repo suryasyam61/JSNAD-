@@ -1,0 +1,14 @@
+{
+  "name": "textlines",
+  "version": "1.0.0",
+  "description": "Reads some lines from a file and tests the value",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Francesco Maida",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.1.2"
+  }
+}
